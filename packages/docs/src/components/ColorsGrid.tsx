@@ -1,4 +1,4 @@
-import { colors } from '@klg-uis'
+import { colors } from '@klg-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {
