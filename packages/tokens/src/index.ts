@@ -8,6 +8,6 @@ export * from './font-weights'
 export * from './fonts'
 export * from './line-heights'
 /* Utilizando essa forma de exportação, permite que exportemos assim:
-  import { colors } from '@ignite-ui/tokens'
+  import { colors } from '@klg-ui/tokens'
 ao invés de:
-  import { colors } from '@ignite-ui/tokens/colors' */
+  import { colors } from '@klg-ui/tokens/colors' */

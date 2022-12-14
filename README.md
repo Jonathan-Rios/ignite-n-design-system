@@ -76,7 +76,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) pa
 
 ➜  npm i typescript -D
 ➜  npx tsc --init #Gera a configuração inicial do tsconfig
-
 ➜  tokens npm i tsup -D
 # Serve para converter o código para um pacote javascript que poderá ser carregado em outros projetos, vantagens perante a forma da conversão normal do pacote do typescript.
 
@@ -91,6 +90,10 @@ Script de utilização
 # Script: "tsup src/index.ts --format esm,cjs --dts"
 #     --format esm,cjs responsável por gerar em formatos de CommonJs e ECMAScript
 #     --dts Gera a definição de tipagem
+
+➜  npm i @changesets/cli -D
+➜  npx changeset init
+
 
 Na pasta packages/react
 ➜  npm init -y
