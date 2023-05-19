@@ -104,8 +104,10 @@ Na pasta packages/react
 ➜  npm i @stitches/react
 ➜  npm install @radix-ui/react-avatar
 ➜  npm install @radix-ui/react-checkbox
+➜  npm install @radix-ui/react-tooltip
+➜  npm install @radix-ui/react-toast
 ➜  npm i phosphor-react
-
+ 
 Na pasta packages/tokens
 ➜  npm init -y
 ➜  npm i typescript -D
