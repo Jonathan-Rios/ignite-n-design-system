@@ -1,0 +1,2 @@
+import{A as t}from"./index-72ed5def.js";import"./index-f5eaf660.js";import"./es.object.get-own-property-descriptor-b0ef2764.js";import"./index-749084c2.js";import"./jsx-runtime-71ca1150.js";const n={title:"Data display/Avatar",component:t,args:{src:"https://github.com/Jonathan-Rios.png",alt:"Jonathan Rios Sousa"},argsTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,n as default};
+//# sourceMappingURL=Avatar.stories-da44b41b.js.map
